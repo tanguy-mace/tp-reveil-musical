@@ -1,0 +1,31 @@
+{
+  "name": "tp-reveil-musical",
+  "version": "1.0.0",
+  "description": "TP Réveil Musical - Architecture Hexagonale, Design Patterns, IoC/DI et Résilience",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsx src/index.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage"
+  },
+  "keywords": [
+    "design-patterns",
+    "architecture-hexagonale",
+    "ioc",
+    "di",
+    "clean-code",
+    "solid"
+  ],
+  "author": "Équipe Réveil Musical",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "@vitest/coverage-v8": "^5.0.3",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.3"
+  }
+}
