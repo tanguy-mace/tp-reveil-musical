@@ -28,3 +28,4 @@ export const TOKENS = {
   // Couche Applicative
   WakeUpUserUseCase: Symbol('WakeUpUserUseCase'),
 } as const;
+

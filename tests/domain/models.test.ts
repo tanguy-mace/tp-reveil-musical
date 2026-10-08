@@ -25,3 +25,4 @@ describe('Domain Models: Weather & DayOfWeek validation', () => {
     expect(isValidDayOfWeek('')).toBe(false);
   });
 });
+

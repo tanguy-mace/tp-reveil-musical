@@ -20,3 +20,4 @@ export interface WakeUpExecutionResult {
   readonly delivery: NotificationDeliveryResult;
   readonly executedAt: Date;
 }
+

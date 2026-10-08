@@ -18,3 +18,4 @@ export interface MusicProvider {
    */
   searchTrack(query: string): Promise<Track | null>;
 }
+

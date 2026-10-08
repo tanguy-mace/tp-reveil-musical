@@ -11,3 +11,4 @@ export interface UserProfileProvider {
    */
   getUserPreferences(userId: string): Promise<UserWakeUpPreferences | null>;
 }
+

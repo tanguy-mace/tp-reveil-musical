@@ -79,3 +79,4 @@ export class ItunesMusicProvider implements MusicProvider {
     };
   }
 }
+

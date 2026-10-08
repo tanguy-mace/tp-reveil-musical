@@ -23,3 +23,4 @@ export const ALL_DAYS_OF_WEEK: readonly DayOfWeek[] = [
 export function isValidDayOfWeek(value: string): value is DayOfWeek {
   return ALL_DAYS_OF_WEEK.includes(value as DayOfWeek);
 }
+

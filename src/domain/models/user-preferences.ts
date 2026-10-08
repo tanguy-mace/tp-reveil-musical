@@ -16,3 +16,4 @@ export interface UserWakeUpPreferences {
   readonly preferredChannel: NotificationChannelType;
   readonly recipientInfo: RecipientInfo;
 }
+

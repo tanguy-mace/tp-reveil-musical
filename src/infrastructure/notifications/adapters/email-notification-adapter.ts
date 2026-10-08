@@ -63,3 +63,4 @@ export class EmailNotificationAdapter implements NotificationSender {
     }
   }
 }
+

@@ -73,3 +73,4 @@ describe('Integration: Point d’entrée triggerWakeUp & Scénarios complets', (
     ).rejects.toThrow(UserNotFoundError);
   });
 });
+

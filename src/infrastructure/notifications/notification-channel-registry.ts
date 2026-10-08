@@ -41,3 +41,4 @@ export class NotificationChannelRegistry {
     return Array.from(this.senders.keys());
   }
 }
+

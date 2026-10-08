@@ -92,3 +92,4 @@ describe('Infrastructure: MusicBrainzMusicProvider', () => {
     );
   });
 });
+

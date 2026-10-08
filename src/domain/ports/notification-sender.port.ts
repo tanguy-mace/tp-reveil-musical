@@ -18,3 +18,4 @@ export interface NotificationSender {
    */
   send(notification: WakeUpNotification): Promise<NotificationDeliveryResult>;
 }
+

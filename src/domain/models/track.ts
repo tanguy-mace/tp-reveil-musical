@@ -11,3 +11,4 @@ export interface Track {
   readonly artist: string;
   readonly source: string; // Ex: 'itunes', 'musicbrainz', 'local-fallback'
 }
+

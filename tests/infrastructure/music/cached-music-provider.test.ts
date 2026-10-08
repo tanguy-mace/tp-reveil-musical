@@ -81,3 +81,4 @@ describe('Design Pattern Decorator: CachedMusicProvider', () => {
     expect(cachedProvider.getStats().hits).toBe(0);
   });
 });
+

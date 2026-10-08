@@ -14,3 +14,4 @@ export const ALL_WEATHER_TYPES: readonly WeatherType[] = [
 export function isValidWeatherType(value: string): value is WeatherType {
   return ALL_WEATHER_TYPES.includes(value as WeatherType);
 }
+

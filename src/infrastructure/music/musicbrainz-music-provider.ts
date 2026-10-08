@@ -90,3 +90,4 @@ export class MusicBrainzMusicProvider implements MusicProvider {
     };
   }
 }
+

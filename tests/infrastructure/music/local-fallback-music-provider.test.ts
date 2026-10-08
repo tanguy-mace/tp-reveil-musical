@@ -30,3 +30,4 @@ describe('Infrastructure: LocalFallbackMusicProvider', () => {
     expect(result.title).toBe('Here Comes the Sun');
   });
 });
+

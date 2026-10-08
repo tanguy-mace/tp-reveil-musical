@@ -51,3 +51,4 @@ export class FallbackMusicProvider implements MusicProvider {
     return null;
   }
 }
+

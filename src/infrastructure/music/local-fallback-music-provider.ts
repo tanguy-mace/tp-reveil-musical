@@ -66,3 +66,4 @@ export class LocalFallbackMusicProvider implements MusicProvider {
     };
   }
 }
+

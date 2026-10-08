@@ -57,3 +57,4 @@ export class MemoryLogger implements Logger {
     this.entries.length = 0;
   }
 }
+

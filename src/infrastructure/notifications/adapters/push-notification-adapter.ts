@@ -66,3 +66,4 @@ export class PushNotificationAdapter implements NotificationSender {
     }
   }
 }
+

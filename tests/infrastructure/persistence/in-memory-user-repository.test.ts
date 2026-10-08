@@ -42,3 +42,4 @@ describe('Infrastructure: InMemoryUserRepository (UserProfileProvider)', () => {
     expect(deleted).toBeNull();
   });
 });
+

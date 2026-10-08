@@ -89,3 +89,4 @@ export class Container {
     this.singletonFactories.clear();
   }
 }
+
